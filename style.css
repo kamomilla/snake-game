@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    width: 95;
+    background-color: rgb(252, 233, 236);
+    margin:0;
+}
+h1{
+    font-family: 'Press Start 2P', cursive, Impact;
+    color: red;
+    text-transform: uppercase;
+    padding: 20px 0;
+}
